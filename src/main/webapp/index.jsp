@@ -13,7 +13,7 @@
     </head>
     <body>
         <h1>Hello World!</h1>
-        <h4>Currently I Am in ERICSSON GIL</h4>
+        <h4>Life is Good at PINELABS</h4>
         <br>
         <h4>Current Date and Time : <%= new Date() %>
     </body>
